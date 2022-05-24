@@ -18,7 +18,6 @@ public class Main {
         // TODO code application logic here
         System.out.println("hello");
         //hello
-        //how are you ?
     }
     
 }
